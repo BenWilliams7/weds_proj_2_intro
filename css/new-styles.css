@@ -93,3 +93,22 @@ strong  {
 .back {
 
 }
+@media screen and (max-width: 1000px) and (min-width: 0) {
+
+  body {
+    background-image: none;
+    background-color: black;
+    clear:left;
+    color: white;
+  }
+  .column {
+    width: 100%;
+    clear: left;
+  }
+  h1 {
+    font-size: 20px;
+  }
+  strong {
+    font-size: 24px;
+  }
+}
