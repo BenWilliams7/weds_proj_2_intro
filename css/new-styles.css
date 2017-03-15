@@ -1,6 +1,8 @@
 p.intro {
   width: 50%;
   font-style: italic;
+  text-align: center;
+  margin: auto;
 }
 
 p.author{
@@ -11,4 +13,27 @@ p.author{
 
 .important{
   color: red;
+}
+
+
+body {
+    background-image: url("../img/background.jpg");
+    background-color: #cccccc;
+    background-size: cover;
+    color: white;
+}
+
+h1, h2 {
+  text-align: center
+}
+
+strong  {
+  font-size: 100px;
+  color: #FF00CD;
+}
+
+.evil {
+  font-style: normal;
+  color: red;
+
 }
