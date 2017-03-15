@@ -1,0 +1,14 @@
+p.intro {
+  width: 50%;
+  font-style: italic;
+}
+
+p.author{
+  width: 75%;
+  font-style: italics;
+  font-weight: bold;
+}
+
+.important{
+  color: red;
+}
